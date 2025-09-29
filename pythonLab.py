@@ -1,3 +1,1 @@
-print("Suiii")
-print("Suiii")
-print("Hello")
+print("Peacock is the National Bird of INDIA")
