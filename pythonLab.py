@@ -1,1 +1,1 @@
-print("Peacock is the National Bird of INDIA")
+print("Lotus is the National Flower of INDIA")
